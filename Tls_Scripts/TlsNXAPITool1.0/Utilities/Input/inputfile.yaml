@@ -1,0 +1,43 @@
+IP:
+   IP1:
+      port: 443
+      address: 10.16.206.122
+      username: admin
+      password: cisco123
+
+ServerIP:
+    ServerIP1: 
+        ip: 10.16.206.168
+        user: root
+        password: C1sc0123
+        path_ndb_build: /root/NDB3.3-ReleaseBuild/xnc
+
+default_days: 365
+default_md: 'sha1'
+default_bits: 2048 
+keystore: 'cisco123'  
+xnc_username: 'admin'
+xnc_password: 'Cisco@123'
+#countryName
+countryName: US
+
+#stateOrProvinceName
+stateOrProvinceName: CA
+
+#organizationName
+organizationName: Cisco
+
+#organizationalUnitName
+organizationalUnitName: NDB
+
+#commonName
+commonName: Network
+
+#emailAddress
+emailAddress: stumbala@cisco.com
+
+#localityName
+localityName: SanJose
+
+
+
